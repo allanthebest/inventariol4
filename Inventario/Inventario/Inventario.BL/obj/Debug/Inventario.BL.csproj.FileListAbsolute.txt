@@ -1,0 +1,10 @@
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\bin\Debug\Inventario.BL.dll.config
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\bin\Debug\Inventario.BL.dll
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\bin\Debug\Inventario.BL.pdb
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\bin\Debug\EntityFramework.dll
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\bin\Debug\EntityFramework.xml
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\obj\Debug\Inventario.BL.dll
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\obj\Debug\Inventario.BL.pdb
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.BL\obj\Debug\Inventario.BL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\Inventario.WIn.exe.config
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\Inventario.WIn.exe
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\Inventario.WIn.pdb
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\EntityFramework.dll
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\Inventario.BL.dll
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\Inventario.BL.pdb
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\EntityFramework.xml
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\obj\Debug\Inventario.WIn.csprojResolveAssemblyReference.cache
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\obj\Debug\Inventario.WIn.Form1.resources
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\obj\Debug\Inventario.WIn.Form2.resources
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\obj\Debug\Inventario.WIn.Properties.Resources.resources
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\obj\Debug\Inventario.WIn.csproj.GenerateResource.Cache
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\obj\Debug\Inventario.WIn.exe
+C:\Users\Allan Jose\Desktop\beverly\Inventario-master\Inventario\Inventario\Inventario.WIn\obj\Debug\Inventario.WIn.pdb
